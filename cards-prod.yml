@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to SmileBank cards related prod APIs"
+  message: "Hey, welcome to SmileBank cards related production APIs"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "{cipher}097242f44d14a354cddec4d92110b76771045484367601138e2cf9ce1f92b7561160cb1aeb5c81661daa6cbda64ee3fd"
